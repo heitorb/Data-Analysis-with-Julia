@@ -1,4 +1,4 @@
-# Data Analysis with Julia (using IJulia kernel)
+# Data Analysis with Julia (using IJulia: Julia kernel for Jupyter)
 
 If you are using Jupyter through Anaconda distribution, to install the IJulia kernel, and write Julia codes on Jupyer Notebook, 
 you need to install Julia (https://julialang.org/downloads/). For Linux (Ubuntu), just do:

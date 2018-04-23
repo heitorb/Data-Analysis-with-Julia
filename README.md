@@ -34,7 +34,7 @@ julia> Pkg.add("IJulia")
 julia> Pkg.build("IJulia")
 ```
 ```
-julia> using IJulia; noteboo()
+julia> using IJulia; notebook()
 ```
 
 Done!

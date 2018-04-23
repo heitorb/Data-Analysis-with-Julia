@@ -30,5 +30,11 @@ julia> Pkg.update()
 ```
 julia> Pkg.add("IJulia")
 ```
+```
+julia> Pkg.build("IJulia")
+```
+```
+julia> using IJulia; noteboo()
+```
 
 Done!
